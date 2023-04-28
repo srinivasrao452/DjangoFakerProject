@@ -1,0 +1,2 @@
+# DjangoFakerProject
+Creating Fake Data
